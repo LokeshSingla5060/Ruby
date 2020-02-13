@@ -1,0 +1,3 @@
+profileDescription: span[ng-show='open']
+title: (//div[@class='up-active-container']/h3/span/span)[1]
+skills: div.o-profile-skills
